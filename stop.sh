@@ -1,1 +1,1 @@
-screen -X -S "chat_server" quit
+screen -X -S "chat" quit
