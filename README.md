@@ -40,8 +40,3 @@ If you lost your SSH connection while in screen and you can't access the server 
 ```
 screen -d -r
 ```
-
-### Marketing
-- Pictures
-- GitHub pages instance in /src/
-- Append licesnse
