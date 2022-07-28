@@ -1,0 +1,1 @@
+screen -d -m -L -S "chat" python3 server.py
